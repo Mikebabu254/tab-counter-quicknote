@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Counter & Quick Notes",
+  "version": "1.0.0",
+  "description": "Counts open tabs and provides a persistent quick note pad.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
